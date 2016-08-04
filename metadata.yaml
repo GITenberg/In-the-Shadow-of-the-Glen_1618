@@ -1,0 +1,37 @@
+_repo: In-the-Shadow-of-the-Glen_1618
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, John Millington
+    - Synge, Edmund John Millington
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: http://en.wikipedia.org/wiki/John_Millington_Synge
+description: 'Dan Burke, it seems, is dead, his body lying on his bed beneath a sheet.
+  His young wife Nora has taken a tramp into the house, a man seeking refuge from
+  the cruel weather of the valley in which she lives. They pass pleasantries until
+  Nora''s intended arrives, a neighbouring shepherd named Michael Dara, with whom
+  Nora schemes a fresh union even while her husband''s body is not yet cold. The comic
+  surprise that follows is a magnificent ''coup de theâtre'': that it is followed
+  by a dénouement as unexpected as any the Irish theatre had seen speaks volumes to
+  Synge''s sophistication as a playwright and master of his craft. The play was first
+  performed in Dublin in 1903.'
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: In the Shadow of the Glen
+url: http://www.gutenberg.org/ebooks/1618
