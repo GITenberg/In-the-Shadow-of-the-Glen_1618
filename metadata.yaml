@@ -1,5 +1,8 @@
 _repo: In-the-Shadow-of-the-Glen_1618
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Synge, J. M. (John Millington)
@@ -20,6 +23,8 @@ description: 'Dan Burke, it seems, is dead, his body lying on his bed beneath a 
   by a dénouement as unexpected as any the Irish theatre had seen speaks volumes to
   Synge''s sophistication as a playwright and master of his craft. The play was first
   performed in Dublin in 1903.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1618#In-the-Shadow-of-the-Glen
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
